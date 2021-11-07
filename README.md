@@ -1,0 +1,6 @@
+# tp_crypto
+le texte chiffré est: Fgf. Dwk vajwulwmjk wl dwk jwkhgfkstdwk esjcwlafy fgmk vwesfvwfl dwk afxgjeslagfkvgfl adk gfl twkgaf hgmj vwxafaj dwmjk hjgewkkwk wl dwmjk wfysywewflk. Wl, ewew k’adk fw fgmk aflwjjgywfl hsk, fgmk fw vwngfk hs wnalwj vw dwmj vajw uw imw fgmk hwfkgfk. Dwk mladakslwmjk kw lgmjfwfl nwjk fgmk hgmj nsdavwj ds esfawjw vgfl dwk wpaywfuwk kw jwljgmnwjgflvsfk dw kqklwew. Dwk uzwxk vw hjgbwl ugehlwfl kmj fgmk hgmj jwkhwulwj dwk wuzwsfuwk.Fgmk kgeewk lglsdwewfl ugehdauwk vm hdsffafy vm hjgbwl wl hsjlsywgfk mfw yjsfvw hsjl vw jwkhgfkstadalw vsfk dwk wuzwuk ; wf hsjlaumdawj ka uwk wuzwuk kgfl dawk s vm esmnsak ugvw
+
+la clé de décalage est : 18 
+
+le texte déchiffré : non. les directeurs et les responsables marketing nous demandent les informationsdont ils ont besoin pour definir leurs promesses et leurs engagements. et, meme s'ils ne nous interrogent pas, nous ne devons pa eviter de leur dire ce que nous pensons. les utilisateurs se tournent vers nous pour valider la maniere dont les exigences se retrouverontdans le systeme. les chefs de projet comptent sur nous pour respecter les echeances.nous sommes totalement complices du planning du projet et partageons une grande part de responsabilite dans les echecs ; en particulier si ces echecs sont lies a du mauvais code
